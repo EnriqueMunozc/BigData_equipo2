@@ -1,0 +1,6 @@
+	Relation to Roadway	
+FieldDesc	On Roadway	Off Roadway -- Roadside	Off Roadway -- Shoulder	Off Roadway -- Median	Off Roadway -- Other/Unknown Location	UnKnown	Total	
+
+Single Vehicle	8243	9657	442	1015	933	85	20375	
+Multiple Vehicles	15199	305	136	225	49	8	15922	
+Total	23442	9962	578	1240	982	93	36297	

@@ -1,0 +1,9 @@
+	Light Condition	
+FieldDesc	Daylight	Dark but Lighted	Dark	Dawn or Dusk	Unknown	Total	
+
+Normal	14578	7042	8569	1356	85	31630	
+Rain	938	631	759	115	12	2455	
+Snow/Sleet	167	54	117	25	2	365	
+Other	131	64	208	40	5	448	
+Unknown	572	199	423	54	151	1399	
+Total	16386	7990	10076	1590	255	36297	

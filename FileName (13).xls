@@ -1,0 +1,10 @@
+	Vehicle Type	
+FieldDesc	Passenger Cars	Light Trucks	Large Trucks	Motorcycles	Buses	Other/Unknown Vehicles	Total	
+
+Passenger Cars	1152	3309	1009	990	40	128	6628	
+Light Trucks		2245	1410	1993	40	217	5905	
+Large Trucks			157	320	4	47	528	
+Motorcycles				83	24	69	176	
+Buses					1	3	4	
+Other/Unknown						37	37	
+Total	1152	5554	2576	3386	109	501	13278	
